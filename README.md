@@ -19,5 +19,13 @@ Run the following command to start the project:
 ```bash
 node index.js
 
+## Contribution Guidelines
 
+We welcome contributions from everyone. To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix: `git checkout -b feature-name`
+3. Make your changes and commit them: `git commit -m "Describe your changes".
+4. Push your branch: `git push origin feature-name`.
+5. Open a Pull Request describing your changes.
 
