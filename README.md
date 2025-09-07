@@ -11,6 +11,7 @@ Clone this repository using:
 git clone https://github.com/obiomahgodwin-101/my-first-repo.git
 ## Usage  
 This line was updated in the usage-updates branch.
+This line creates a conflict with master.
 
 Run the following command to start the project:  
 
